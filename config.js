@@ -6,12 +6,12 @@ const CONFIG = {
     title: 'Trúc là một cô gái xinh đẹp, học giỏi và ngoan hiền 🥰',
     desc: 'Ngay từ lúc ấy, trong mình luôn có một bầu trời về Trúc 😄 ',
     btnYes: ' Bạn tuy xinh đẹp nhưng rất dễ thương và giản dị <33, khiến mình thấy được sự khác biệt của bạn giữa những cô gái khác ( Hãy bấm vào dòng này :3 ) ',
-    btnNo: 'Đừng click vào đây nhaa',
+    btnNo: 'Không nhé bạn :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại khiến mình tương tư đến thế <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'aw so cute <333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Gửi mình địa chỉ mình gửi quà nhaa 😘 .',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/nguyen.trunganh.7921' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
